@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bill/Desktop/eight_diagrams/build/macos/Build/Products/Release/eight_diagrams.app/Contents/MacOS/eight_diagrams'
+relocations:
+  - { offsetInCU: 0x27, offset: 0xC6279, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000027CC, symSize: 0xE4 }
+  - { offsetInCU: 0x61, offset: 0xC62B3, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000027CC, symSize: 0xE4 }
+  - { offsetInCU: 0x112, offset: 0xC6364, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams17MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleI0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xE4, symBinAddr: 0x1000028B0, symSize: 0x8C }
+  - { offsetInCU: 0x174, offset: 0xC63C6, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams17MainFlutterWindowCMa', symObjAddr: 0x1A0, symBinAddr: 0x10000296C, symSize: 0x20 }
+  - { offsetInCU: 0x3B3, offset: 0xC6605, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams17MainFlutterWindowCfD', symObjAddr: 0x170, symBinAddr: 0x10000293C, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0xC664F, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x10000298C, symSize: 0x8 }
+  - { offsetInCU: 0x4B, offset: 0xC6673, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x10000298C, symSize: 0x8 }
+  - { offsetInCU: 0x7D, offset: 0xC66A5, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams11AppDelegateCACycfcTo', symObjAddr: 0x8, symBinAddr: 0x100002994, symSize: 0x3C }
+  - { offsetInCU: 0xE2, offset: 0xC670A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x74, symBinAddr: 0x100002A00, symSize: 0x28 }
+  - { offsetInCU: 0x12C, offset: 0xC6754, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams11AppDelegateCMa', symObjAddr: 0x9C, symBinAddr: 0x100002A28, symSize: 0x20 }
+  - { offsetInCU: 0x23D, offset: 0xC6865, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams11AppDelegateCfD', symObjAddr: 0x44, symBinAddr: 0x1000029D0, symSize: 0x30 }
+  - { offsetInCU: 0x2B, offset: 0xC68D3, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams19ResourceBundleClass33_AA8453CC4B0C1331DB41E6AD1483CC1ALLCfD', symObjAddr: 0x0, symBinAddr: 0x100002A48, symSize: 0x10 }
+  - { offsetInCU: 0x6D, offset: 0xC6915, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams19ResourceBundleClass33_AA8453CC4B0C1331DB41E6AD1483CC1ALLCMa', symObjAddr: 0x10, symBinAddr: 0x100002A58, symSize: 0x20 }
+  - { offsetInCU: 0x13B, offset: 0xC69E3, size: 0x8, addend: 0x0, symName: '_$s14eight_diagrams19ResourceBundleClass33_AA8453CC4B0C1331DB41E6AD1483CC1ALLCfD', symObjAddr: 0x0, symBinAddr: 0x100002A48, symSize: 0x10 }
+...
